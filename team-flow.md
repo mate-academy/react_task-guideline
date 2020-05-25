@@ -1,10 +1,14 @@
 # How to work in a team
-1. Create an organization on Github ![Create an organization](./description/create-an-organization.png)
+1. Create an organization on Github
+    ![Create an organization](./description/create-an-organization.png)
 1. Choose a `Free` plan
 1. Use a name like `fe-feb20-team0` (your group + your team name)
-1. It should belong to your personal account ![Set up your team](./description/set-up-your-team.png)
-1. Add your teammate to the team by his/her username on Github ![Add your teammate](./description/add-your-teammate.png)
-1. Fork the task repo to your organization ![Fork the repo](./description/fork-the-repo.png)
+1. It should belong to your personal account
+    ![Set up your team](./description/set-up-your-team.png)
+1. Add your teammate to the team by his/her username on Github
+    ![Add your teammate](./description/add-your-teammate.png)
+1. Fork the task repo to your organization
+    ![Fork the repo](./description/fork-the-repo.png)
 1. Clone the repo from your organization
 1. Create a `develop` branch to have it as a base for your feature PullRequests
 1. Push `develop` to github
