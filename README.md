@@ -18,7 +18,7 @@
 5. Run `npm run deploy` to publish your solution to Github pages
 
 ## Prepare for code review
-1. Create a `Pull Request` (`PR`) from the forked repo `(<branch_name>)` to the original repo (`master`) 
+1. Create a `Pull Request` (`PR`) from `the-forked-repo/develop` to `the-original-repo/master`
 2. Put your Github username into the `DEMO LINK` (above the task description) and add it to the `PR` description
-3. Add the `PR` link to the Google Spreadsheets for code review and put `s` next to your link
+
 > In order to update the PR repeat the steps 2-5 from the `Develop the solution` section
