@@ -14,7 +14,7 @@
     - [HTML and CSS styleguide](https://mate-academy.github.io/style-guides/htmlcss.html)
     - [JS styleguide](https://mate-academy.github.io/style-guides/javascript-standard-modified)
 3. Run `npm run lint` to check the code style and fix all the errors
-4. Commit and push all the recent changes
+4. `Commit` and `push` all the recent changes
 5. Run `npm run deploy` to publish your solution to Github pages
 
 ## Prepare for code review
