@@ -21,7 +21,7 @@
 1. Write your code, save it and push it to Github
 1. Deploy the code to GH-Pages
 1. Ask your teammate to review and approve if everything is OK
-1. If some fixes are required discuss the comments and repeat steps 4-6
+1. If some fixes are required discuss the comments and repeat steps 5-7
 1. If PR was approved by your teammate ask a mentor to review
-1. If the mentor requests some changes repeat steps 4-5
+1. If the mentor requests some changes repeat steps 5 and 6
 1. After the mentor approves your PR `merge` it and delete the feature branch
