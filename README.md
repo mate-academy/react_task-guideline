@@ -15,9 +15,10 @@ This instruction explains how to work with React tasks on Github
 2. Write the code inside the `src/` folder following the style guides:
     - [HTML and CSS styleguide](https://mate-academy.github.io/style-guides/htmlcss.html)
     - [JS styleguide](https://github.com/mate-academy/style-guides/blob/master/javascript.md)
-3. Run `npm run lint` to check the code style and fix all the errors
-4. `add`, `commit` and `push` all the recent changes
-5. Run `npm run deploy` to publish your solution to Github pages
+3. Open one more terminal and run tests with `npm test` to ensure your solutions is correct
+4. Run `npm run lint` to check the code style and fix all the errors
+5. `add`, `commit` and `push` all the recent changes
+6. Run `npm run deploy` to publish your solution to Github pages
 
 ## Prepare for code review
 1. Create a `Pull Request` (`PR`) from `the-forked-repo/develop` to `the-original-repo/master`
